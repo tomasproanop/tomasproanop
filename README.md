@@ -1,6 +1,6 @@
 ### Hi there, 👋  welcome!
 
-I'm Tomás from Quito, Ecuador.
+I'm Tomas from Quito, Ecuador.
 
 - 💻  I'm currently a Computer Science student at Freie Universität Berlin.
 - 💡  I like to explore new trends and learn new technologies.
