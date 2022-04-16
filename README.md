@@ -1,9 +1,8 @@
-### Hi there, 👋  welcome!
+### Hi there, welcome!
 
-I'm Tomás from Quito, Ecuador.
+I'm Tomás.
 
-- 💻  I'm currently a Computer Science student at Freie Universität Berlin.
-- 💡  I like to explore new trends and learn new technologies.
-- 🌱  I'm on track for learning more about JavaScript, React, Redux, jQuery, Bootstrap and TypeScript.
-- ✨ Pronouns: he/him
-- 😄  Feel free to reach out to me!
+- 💡  I like to explore new trends and learn about new technologies.
+- 🌱  Tech stack: HTML, CSS and on track for learning more about JavaScript, React, Redux, jQuery and Bootstrap.
+- 💬  Pronouns: he/him
+- 😀  Feel free to reach out to me!
