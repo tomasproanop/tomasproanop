@@ -7,4 +7,4 @@ I'm Tomás.
 - 💬  Pronouns: he/him
 - 😀  Feel free to reach out to me!
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?tomasproanop" frameborder="0"></iframe>
+https://ionicabizau.github.io/github-profile-languages/api.html?tomasproanop
