@@ -3,8 +3,7 @@
 I'm Tomás.
 
 - 💡  I like to explore new trends and learn about new technologies.
-- 🌱  Current tech stack: HTML, CSS, JavaScript, React, Bootstrap and WordPress.
-- 💬  Pronouns: he/him
-- 😀  Feel free to reach out to me!
-
-https://ionicabizau.github.io/github-profile-languages/api.html?tomasproanop
+- 🌱  My current tech stack is: HTML, CSS (Bootstrap), JavaScript (React, Redux, jQuery).
+- 🎓  In previous years I studied Music and Music Production (Berklee) and now I'm studying Computer Science (FU-Berlin).
+- 💬  My pronouns are he/him.
+- 😀  Feel free to reach out to me! 
