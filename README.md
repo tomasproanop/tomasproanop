@@ -1,10 +1,6 @@
-### Hi there, welcome!
+### Hi there, welcome! 
 
-I'm Tomás.
+Nice to meet you. I'm Tomás, a Frontend Developer.
+My current tech stack is: HTML, CSS (Bootstrap), JavaScript (React) and Python.
 
-- 💡  I like to explore new trends and learn about new technologies.
-- 🌱  My current tech stack is: HTML, CSS (Bootstrap), JavaScript (React) and Python.
-- 🎸  In the past, I studied Music and Music Production (USFQ & Berklee) and taught at UArtes (Ecuador).
-- 💻  Currently, I'm studying Computer Science at FU-Berlin.
-- 💬  My pronouns are he/him.
-- 😀  Feel free to reach out to me! 
+Feel free to reach out to me! 
