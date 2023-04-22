@@ -1,11 +1,8 @@
 ### Hi there, welcome! 
 
 Nice to meet you. I'm Tomás. 
-My current tech stack is: HTML, CSS (Bootstrap), JavaScript (React) and Python.
 
-Feel free to reach out to me! 
-
-You can also find other parts of me here: 
+Here are some projects a worked on as part of mz learning journey. You can also find other parts of me here: 
 
 [Bandcamp](https://tomasproano.bandcamp.com)
 
