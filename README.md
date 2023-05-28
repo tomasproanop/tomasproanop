@@ -2,7 +2,11 @@
 
 Nice to meet you. I'm Tomás. 
 
-Here are some projects a worked on as part of my learning journey. You can also find other parts of me here: 
+Here are some projects a worked on as part of my learning journey. 
+
+If you wish, you can also see my [portfolio](https://tomasproanop.github.io).
+
+You can also find other parts of me here: 
 
 [Bandcamp](https://tomasproano.bandcamp.com)
 
