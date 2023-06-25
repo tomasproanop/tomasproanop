@@ -1,8 +1,8 @@
 ### Hi there, welcome! 
 
-Nice to meet you :) 
+Nice meeting you :) 
 
-Here are some projects I have worked on as part of my learning journey. 
+Here are some projects I've worked on as part of my learning journey. 
 
 If you wish, you can also see my [portfolio](https://tomasproanop.github.io).
 
