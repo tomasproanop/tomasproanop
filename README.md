@@ -2,7 +2,7 @@
 
 Nice to meet you. I'm Tomás. 
 
-Here are some projects a worked on as part of my learning journey. 
+Here are some projects I have worked on as part of my learning journey. 
 
 If you wish, you can also see my [portfolio](https://tomasproanop.github.io).
 
