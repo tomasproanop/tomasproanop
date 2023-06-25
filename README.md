@@ -1,6 +1,6 @@
 ### Hi there, welcome! 
 
-Nice to meet you. I'm Tomás. 
+Nice to meet you :) 
 
 Here are some projects I have worked on as part of my learning journey. 
 
