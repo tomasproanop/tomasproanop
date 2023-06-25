@@ -1,6 +1,6 @@
 ### Hi there, welcome! 
 
-Nice meeting you :) 
+Nice to meet you :) 
 
 Here are some projects I've worked on as part of my learning journey. 
 
