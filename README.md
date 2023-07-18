@@ -19,4 +19,4 @@ And this ist some FOSS I extensively use:
 - [Syncthing](https://github.com/syncthing/syncthing) -  File synchronization that works
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
 - [LZ4](https://github.com/lz4/lz4) -  Extremely fast compression
-- [Anki](https://github.com/ankitects/anki) - USeful tool for learning through spaced repetition
+- [Anki](https://github.com/ankitects/anki) - Useful tool for learning through spaced repetition
