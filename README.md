@@ -4,7 +4,7 @@ Nice to meet you :)
 
 Here are some projects I've worked on as part of my learning journey. 
 
-If you wish, you can also see my [portfolio](https://tomasproanop.github.io).
+If you wish, you can also see my [portfolio](https://tomasproanop.github.io) or [contact me](mailto:tomasproanop@gmail.com).
 
 You can also find other parts of me here: 
 
@@ -15,7 +15,6 @@ You can also find other parts of me here:
 
 And this ist some FOSS I extensively use:
 
-- [Neovim](https://github.com/neovim/neovim) - A cool editor
 - [Syncthing](https://github.com/syncthing/syncthing) -  File synchronization tool
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
 - [LZ4](https://github.com/lz4/lz4) -  Extremely fast compression
