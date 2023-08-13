@@ -19,3 +19,5 @@ And this ist some FOSS I extensively use:
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
 - [LZ4](https://github.com/lz4/lz4) -  Extremely fast compression
 - [Anki](https://github.com/ankitects/anki) - Useful tool for learning through spaced repetition
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tomasproanop/langs)](https://githubtrends.io)
