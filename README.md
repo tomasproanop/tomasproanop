@@ -20,4 +20,6 @@ And this ist some FOSS I extensively use:
 - [LZ4](https://github.com/lz4/lz4) -  Extremely fast compression
 - [Anki](https://github.com/ankitects/anki) - Useful tool for learning through spaced repetition
 
+Here are statistics of all my repositories:
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomasproanop)](https://github.com/anuraghazra/github-readme-stats)
+Tool developed by [Anurag Hazra](https://github.com/anuraghazra).
