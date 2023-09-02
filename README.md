@@ -22,6 +22,6 @@ And this ist some FOSS I extensively use:
 
 Here are statistics of all my repositories:
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomasproanop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomasproanop&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 This tool was developed by [Anurag Hazra](https://github.com/anuraghazra).
