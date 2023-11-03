@@ -3,9 +3,6 @@
 Nice to meet you :) 
 
 Here are some projects I've worked on as part of my learning journey. 
-
-If you wish, you can also see my [portfolio](https://tomasproanop.github.io) or [contact me](mailto:tomasproanop@gmail.com).
-
 You can also find other parts of me here: 
 
 - [Bandcamp](https://tomasproano.bandcamp.com)
