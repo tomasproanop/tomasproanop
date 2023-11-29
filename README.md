@@ -2,13 +2,14 @@
 
 Nice to meet you :) 
 
-Here are some projects I've worked on as part of my learning journey. 
+Here are some programming projects I've worked on as part of my learning journey. 
+
 You can also find other parts of me here: 
 
 - [Bandcamp](https://tomasproano.bandcamp.com)
 - [Vimeo](https://vimeo.com/tomasproano)
-- [Music for short documentary *Hijas del viento Wayra apamushkas*](https://www.youtube.com/watch?v=-2Zx_ZJ9HQEs)
-- Photography and poetry project: [*hacerse piel*](https://tomasproanop.github.io/hacerse-piel)
+- [Music for short documentary *Hijas del viento Wayra apamushkas*] directed by Cristina Vera Vega and Magali Marega (https://www.youtube.com/watch?v=-2Zx_ZJ9HQEs)
+- Photography and poetry project with Estefanía Montenegro: [*hacerse piel*](https://tomasproanop.github.io/hacerse-piel)
 
 And this ist some FOSS I find very useful:
 
