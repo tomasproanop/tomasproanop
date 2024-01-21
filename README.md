@@ -13,10 +13,12 @@ You can also find other parts of me here:
 
 And this ist some FOSS I find very useful:
 
-- [Syncthing](https://github.com/syncthing/syncthing) -  File synchronization tool
-- [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
-- [LZ4](https://github.com/lz4/lz4) -  Extremely fast compression
-- [Anki](https://github.com/ankitects/anki) - A tool for learning through spaced repetition
+- [Syncthing](https://github.com/syncthing/syncthing) -  This is a handy file synchronization tool.
+- [BorgBackup](https://github.com/borgbackup/borg) - This tool creates deduplicated, compressed and encrypted backups.
+- [LZ4](https://github.com/lz4/lz4) -  This software is able to deliver extremely fast compression.
+- [Anki](https://github.com/ankitects/anki) - This a great tool for learning through spaced repetition
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - A powerful life-saving free data recovery software. It is able to recover lost partitions and/or make non-booting disks bootable again.
+- [HandBrake](https://handbrake.fr/) - This is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. One can also do small edits (change duration, add filters, add subtitles).
 
 Here are statistics of all my repositories:
 
