@@ -18,7 +18,7 @@ These are some FOSS I find very useful:
 - [LZ4](https://github.com/lz4/lz4) -  This software is able to deliver extremely fast compression.
 - [Anki](https://github.com/ankitects/anki) - This a great tool for learning through spaced repetition
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - A powerful life-saving free data recovery software. It is able to recover lost partitions and/or make non-booting disks bootable again.
-- [HandBrake](https://handbrake.fr/) - This is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. One can also do small edits (change duration, add filters, add subtitles).
+- [HandBrake](https://handbrake.fr/) - This is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. One can also do small edits such as change length, add filters, add subtitles, and many other.
 
 And here are programming language statistics of all my public repositories:
 
