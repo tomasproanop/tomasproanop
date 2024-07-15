@@ -8,7 +8,7 @@ You can also find other parts of me here:
 
 - [Bandcamp](https://tomasproano.bandcamp.com)
 - [Vimeo](https://vimeo.com/tomasproano)
-- Incidental music for the short documentary [*Hijas del viento Wayra apamushkas*](https://www.youtube.com/watch?v=-2Zx_ZJ9HQEs), directed by [Cristina Vera Vega](https://flacsoandes.academia.edu/CristinaVeraVega) and [Magali Marega](https://scholar.google.es/citations?user=butmn-sAAAAJ&hl=es). You can also find out more about their work and research [here](https://www.academia.edu/43418488/Hijas_del_viento_Wayra_apamushkas_Historia_de_vida_de_mujeres_entregadas_de_ni%C3%B1as_para_el_trabajo_del_hogar_en_los_Andes_ecuatorianos_Ciudad_Aut%C3%B3noma_de_Buenos_Aires_Editorial_Antropofagia).
+- Incidental music for the short documentary [*Hijas del viento / Wayra apamushkas*](https://www.youtube.com/watch?v=-2Zx_ZJ9HQEs), directed by [Cristina Vera Vega](https://flacsoandes.academia.edu/CristinaVeraVega) and [Magali Marega](https://scholar.google.es/citations?user=butmn-sAAAAJ&hl=es). You can also find out more about their work and research [here](https://www.academia.edu/43418488/Hijas_del_viento_Wayra_apamushkas_Historia_de_vida_de_mujeres_entregadas_de_ni%C3%B1as_para_el_trabajo_del_hogar_en_los_Andes_ecuatorianos_Ciudad_Aut%C3%B3noma_de_Buenos_Aires_Editorial_Antropofagia).
 - Photography and poetry project [*hacerse piel*](https://estefaniamontenegro.visura.co/hacersepiel) with photographer and UI/UX designer [Estefanía Montenegro Ayala](https://www.figma.com/proto/54HyzeOtliXnQjt5h30ycf/Estefania-Montenegro-Portfolio?page-id=0%3A1&type=design&node-id=11747-210&viewport=-1424%2C638%2C0.4&t=T6Df81G9cJ98NOJz-1&scaling=min-zoom&starting-point-node-id=1%3A6)
 
 And these are some FOSS I find very useful:
