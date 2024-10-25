@@ -13,7 +13,8 @@ You can also find other parts of me here:
 
 And these are some FOSS I find very useful:
 
-- [Syncthing](https://github.com/syncthing/syncthing) -  This is a handy file synchronization tool.
+- [Disk Inventory X](http://www.derlien.com/) - This is a disk usage utility for Mac OS X. It shows the sizes of files and folders in a special graphical way called "treemaps". 
+- [Syncthing](https://github.com/syncthing/syncthing) - This is a handy file synchronization tool.
 - [BorgBackup](https://github.com/borgbackup/borg) - This tool creates deduplicated, compressed and encrypted backups.
 - [LZ4](https://github.com/lz4/lz4) -  This software is able to deliver extremely fast compression.
 - [Anki](https://github.com/ankitects/anki) - This a great tool for learning through spaced repetition
