@@ -9,7 +9,7 @@ You can also find other parts of me here:
 - [Bandcamp](https://tomasproano.bandcamp.com)
 - [Vimeo](https://vimeo.com/tomasproano)
 - Incidental music for the short documentary [*Hijas del viento / Wayra apamushkas*](https://www.youtube.com/watch?v=-2Zx_ZJ9HQEs), directed by [Cristina Vera Vega](https://flacsoandes.academia.edu/CristinaVeraVega) and [Magali Marega](https://scholar.google.es/citations?user=butmn-sAAAAJ&hl=es). You can also find out more about their work and research [here](https://www.academia.edu/43418488/Hijas_del_viento_Wayra_apamushkas_Historia_de_vida_de_mujeres_entregadas_de_ni%C3%B1as_para_el_trabajo_del_hogar_en_los_Andes_ecuatorianos_Ciudad_Aut%C3%B3noma_de_Buenos_Aires_Editorial_Antropofagia).
-- Photography and poetry project [*hacerse piel*](https://estefaniamontenegro.visura.co/hacersepiel) with photographer and UI/UX designer [Estefanía Montenegro Ayala](https://www.estefaniamontenegroa.com)
+- Photography and poetry project [*hacerse piel*](https://estefaniamontenegro.visura.co/hacersepiel) with photographer and UI/UX designer [Estefanía Montenegro](https://www.estefaniamontenegro.com)
 
 And these are some FOSS I find very useful:
 
