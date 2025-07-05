@@ -21,9 +21,3 @@ And these are some FOSS I find very useful:
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - A powerful life-saving free data recovery software. It is able to recover lost partitions and/or make non-booting disks bootable again.
 - [HandBrake](https://handbrake.fr/) - This is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. One can also do small edits such as change length, add filters, add subtitles, etc.
 - [OpenShot Video Editor](https://www.openshot.org/) - A great alternative to other video editing software I used in the past.
-
-Programming language statistics of all my public repositories:
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tomasproanop&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-This tool was developed by [Anurag Hazra](https://github.com/anuraghazra).
